@@ -1,0 +1,5 @@
+# Resolusi
+- Menguasai bahasa PHP
+- Menguasai FrameWork (CodeIgniter) bahasa PHP
+- Menguasai bahasa JavaScript
+- Menguasai Node.js
