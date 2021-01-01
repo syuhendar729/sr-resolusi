@@ -4,4 +4,4 @@
 - Menguasai bahasa JavaScript
 - Menguasai Node.js
 - Membuat sistem login
-- Menguasai bahasa python
+- Menghosting website
