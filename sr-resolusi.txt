@@ -4,7 +4,7 @@
 - Menguasai bahasa JavaScript
 - Menguasai Node.js
 - Membuat sistem login
+- Sertifikasi python
 - Menghosting website
-==========
 - Sertifikasi php
 - Sertifikasi javascript
