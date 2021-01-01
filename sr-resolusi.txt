@@ -5,3 +5,6 @@
 - Menguasai Node.js
 - Membuat sistem login
 - Menghosting website
+==========
+- Sertifikasi php
+- Sertifikasi javascript
