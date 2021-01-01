@@ -3,3 +3,5 @@
 - Menguasai FrameWork (CodeIgniter) bahasa PHP
 - Menguasai bahasa JavaScript
 - Menguasai Node.js
+- Membuat sistem login
+- Menguasai bahasa python
