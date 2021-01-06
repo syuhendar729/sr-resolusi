@@ -1,2 +1,2 @@
 # sr-resolusi
-Repository untuk rencana kedepannya
+Repository awal pembelajaran `git`
